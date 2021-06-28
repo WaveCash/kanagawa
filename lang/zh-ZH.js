@@ -164,6 +164,7 @@ export default () => {
       },
       airdrop: {
         "claimNow": "立即领取空投",
+        "times": "次",
         "tokenInfo": "代币信息",
         "Promote": "推广与奖励",
         "earned": "Earned",
@@ -171,7 +172,7 @@ export default () => {
         "TotalBurnt": '总销毁量',
         "TotalSupply": '总流通量',
         "AirdropReward": '本轮空投奖励',
-        "TotalClaimed": '空投领取次数',
+        "TotalClaimed": '历史空投领取次数',
         "remainingAirdrop": '本轮空投余量',
         "upgradeTo": '升级您的推广等级, 可以在您对应级别的下线被邀请人获取空投奖励时得到额外分成. 升级至等级',
         "upgradeNeed": "需要花费:",

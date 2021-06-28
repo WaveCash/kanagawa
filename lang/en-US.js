@@ -164,6 +164,7 @@ export default () => {
       },
       airdrop: {
         "claimNow": "Claim Now",
+        "times": "times",
         "tokenInfo": "Token Info",
         "Promote": "Promotion & Reward",
         "earned": "Earned",
