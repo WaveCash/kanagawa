@@ -144,7 +144,7 @@ export default () => {
         "Q7": 'Who get that WAVE tokens that I cost when upgrade?',
         "A7": 'No one get that WAVE tokens. This tokens are sent to 0x000... address and burnt.',
         "Q8": 'Why should I upgrade?',
-        "A8": 'For example, when your lv1 invitee(your invitee\'s invitee) invite another people and he claims the airdrop, you will get 1/2 of the airdrop reward if you\'re lv1. If you don\'t reach lv1 the reward will missed and burnt.',
+        "A8": 'For example, when your lv1 invitee(your invitee\'s invitee) invite another people and he claims the airdrop, you will get 1/2 of the airdrop reward if you\'re lv1. If you don\'t reach lv1 the reward will be burnt and missed.',
         "Q9": 'What is the highest level?',
         "A9": 'The current highest level is lv10.',
         "Q10": 'How to Buy/Sell BNB?',
@@ -175,7 +175,7 @@ export default () => {
         "AirdropReward": 'Round #{0} Airdrop Reward',
         "TotalClaimed": 'Total Claimed',
         "remainingAirdrop": 'Round #{0} Remaining',
-        "upgradeTo": 'You can get WAVE token rewards when your invitees in that level claims the Airdrop. Upgrade to level ',
+        "upgradeTo": 'You can get WAVE token rewards when your invitees in that level claim the Airdrop. Upgrade to level ',
         "upgradeNeed": "need costs:",
         "referrerLv": "Your Referrer Level",
         "upgradeFee": 'Upgrade Fee',
@@ -192,6 +192,10 @@ export default () => {
         "howToInvite": 'When you have got the Airdrop you can invite people to get, and then you will get more WAVE. Your wallet address is your own referrer code: ',
         "copied": 'Invite link is copied!',
         "copy": 'Copy link'
+      },
+      ocean: {
+        title: "Ocean",
+        subtitle: "Ocean"
       }
     })
   })

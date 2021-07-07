@@ -192,6 +192,10 @@ export default () => {
         "howToInvite": '领取空投后, 可邀请他人领取, 您也将获得更多WAVE. 您的钱包地址即是您的邀请码: ',
         "copied": '邀请链接已复制',
         "copy": '复制邀请链接到剪贴板'
+      },
+      ocean: {
+        title: "Ocean",
+        subtitle: "Ocean"
       }
     })
   })
