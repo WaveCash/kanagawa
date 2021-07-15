@@ -52,11 +52,13 @@ export default () => {
         "airdrop_subtitle": "Claim free WAVE token"
       },
       cryptoLanding: {
+        "header_home": "Home",
         "header_origin": "Origin",
         "header_token": "Token",
         "header_roadmap": "Roadmap",
         "header_faqs": "FAQs",
         "header_airdrop": "Airdrop",
+        "header_ocean": "Ocean",
         "header_exchange": "Exchange",
         "header_login": "log in",
         "header_register": "register",
@@ -195,7 +197,10 @@ export default () => {
       },
       ocean: {
         title: "Ocean",
-        subtitle: "Ocean"
+        subtitle: "Stake LP tokens to earn",
+        coming: 'The Great Wave off Kanagawa Community LP token staking farm. \nIt\'s coming soon!',
+        mariculture: 'Mariculture',
+        salvage: 'Salvage'
       }
     })
   })

@@ -52,12 +52,14 @@ export default () => {
         "airdrop_subtitle": "获取免费WAVE代币"
       },
       cryptoLanding: {
+        "header_home": "首页",
         "header_origin": "缘起",
         "header_token": "代币",
         "header_roadmap": "愿景",
         "header_faqs": "疑问",
         "header_exchange": "交易代币",
         "header_airdrop": "领取空投",
+        "header_ocean": "海洋资源",
         "header_login": "登录",
         "header_register": "注册",
         "header_language": "语言",
@@ -194,8 +196,11 @@ export default () => {
         "copy": '复制邀请链接到剪贴板'
       },
       ocean: {
-        title: "Ocean",
-        subtitle: "Ocean"
+        title: "海洋资源",
+        subtitle: "质押流动性代币(LP tokens)挖矿",
+        coming: '神奈川冲浪社区流动性代币质押挖矿即将开启',
+        mariculture: '海水养殖',
+        salvage: '海底寻宝'
       }
     })
   })
