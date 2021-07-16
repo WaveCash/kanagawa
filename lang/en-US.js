@@ -199,7 +199,17 @@ export default () => {
         title: "Ocean",
         subtitle: "Stake LP tokens to earn",
         coming: 'The Great Wave off Kanagawa Community LP token staking farm. \nIt\'s coming soon!',
+        canInfo: 'CAN is a PoS(Proof-of-Stake) issued token. It is used to connect WAVE token which is the base token and other NFT tokens in the community.',
         mariculture: 'Mariculture',
+        apr: 'APR',
+        canEarnd: 'CAN Earnd',
+        harvest: 'Harvest',
+        enableFarm: 'Enable Farm',
+        enable: 'Enable',
+        stake: 'Stake',
+        stakeLp: 'Stake {0} LP',
+        unstakeLp: 'Unstake {0} LP',
+        unstake: 'Unstake',
         salvage: 'Salvage'
       }
     })

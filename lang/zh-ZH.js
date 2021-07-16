@@ -199,7 +199,17 @@ export default () => {
         title: "海洋资源",
         subtitle: "质押流动性代币(LP tokens)挖矿",
         coming: '神奈川冲浪社区流动性代币质押挖矿即将开启',
+        canInfo: 'CAN是基于LP代币质押挖矿(PoS, Proof-of-Stake)发行的代币. 它用于连接基础代币WAVE和社区中的其他NFT代币.',
         mariculture: '海水养殖',
+        apr: 'APR/年化',
+        canEarnd: '产出罐头(CAN)',
+        harvest: '收获',
+        enableFarm: '允许养殖',
+        enable: '允许',
+        stake: '抵押',
+        stakeLp: '抵押{0} LP代币',
+        unstakeLp: '赎回{0} LP代币',
+        unstake: '赎回',
         salvage: '海底寻宝'
       }
     })
