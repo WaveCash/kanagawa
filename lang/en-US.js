@@ -210,6 +210,13 @@ export default () => {
         stakeLp: 'Stake {0} LP',
         unstakeLp: 'Unstake {0} LP',
         unstake: 'Unstake',
+        amount: 'Amount',
+        staking: 'Staked',
+        upgradeCan: 'Upgrade & CD Faster',
+        needRegister: 'You have not registered yet, you need to register first!',
+        register: 'Register',
+        willStake: '{0} {1} LP token will be staked',
+        willUnstake: '{0} {1} LP token will be withdrawn',
         salvage: 'Salvage'
       }
     })
