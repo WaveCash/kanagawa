@@ -59,7 +59,7 @@ export default () => {
         "header_faqs": "疑问",
         "header_exchange": "交易代币",
         "header_airdrop": "领取空投",
-        "header_ocean": "海洋资源",
+        "header_ocean": "质押挖矿",
         "header_login": "登录",
         "header_register": "注册",
         "header_language": "语言",

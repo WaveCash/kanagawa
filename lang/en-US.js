@@ -59,6 +59,7 @@ export default () => {
         "header_faqs": "FAQs",
         "header_airdrop": "Airdrop",
         "header_ocean": "Ocean",
+        "header_lptStake": "LP Token Stake",
         "header_exchange": "Exchange",
         "header_login": "log in",
         "header_register": "register",
