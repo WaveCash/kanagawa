@@ -202,7 +202,7 @@ export default () => {
         canInfo: 'CAN是基于LP代币质押挖矿(PoS, Proof-of-Stake)发行的代币. 它用于连接基础代币WAVE和社区中的其他NFT代币.',
         mariculture: '海水养殖',
         apr: 'APR',
-        canEarnd: '产出罐头(CAN)',
+        canEarnd: '预估产量(CAN)',
         harvest: '收获',
         enableFarm: '允许养殖',
         enable: '允许',
