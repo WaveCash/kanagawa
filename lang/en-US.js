@@ -203,7 +203,7 @@ export default () => {
         canInfo: 'CAN is a PoS(Proof-of-Stake) issued token. It is used to connect WAVE token which is the base token and other NFT tokens in the community.',
         mariculture: 'Mariculture',
         apr: 'APR',
-        canEarnd: 'Estimated Output',
+        canEarnd: 'Estimated Output(CAN)',
         harvest: 'Harvest',
         enableFarm: 'Enable Farm',
         enable: 'Enable',
