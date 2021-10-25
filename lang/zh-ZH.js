@@ -58,6 +58,7 @@ export default () => {
         "header_roadmap": "愿景",
         "header_faqs": "疑问",
         "header_exchange": "交易代币",
+        "header_nft": "NFT游戏",
         "header_airdrop": "领取空投",
         "header_ocean": "质押挖矿",
         "header_login": "登录",
