@@ -61,6 +61,7 @@ export default () => {
         "header_ocean": "Ocean",
         "header_lptStake": "LP Token Stake",
         "header_exchange": "Exchange",
+        "header_nft": "NFT Game",
         "header_login": "log in",
         "header_register": "register",
         "header_language": "language",
