@@ -115,7 +115,7 @@ export default () => {
         "morefeature_subtitle2": "时间就是金钱。请不要等待交易结束：同时开设多个头寸并继续交易。",
         "morefeature_title3": "更明智的交易",
         "morefeature_subtitle3": "交易数十种加密资产，从BTC和ETH到流行的山寨币和稳定币，再到创新的新项目。",
-        "benefit_title": "提供一切以监视您的资产",
+        "benefit_title": "加入NFT预售&获取你的销售提成",
         "testi_title": "我们的成员怎么说",
         "testi_subtitle": "他们正在和我们一起做伟大的事情",
         "faq_title": "常见问题",
@@ -129,6 +129,12 @@ export default () => {
         "origin_story1": '当各种代币横行，在发行代币时，不良创世团队手中往往会预留天文数字的代币。而当这些代币炒热起来后，这些团队会抛售他们手中的代币。这很不公平。',
         "origin_title2": "改变",
         "origin_story2": '在看到这种不良现象后，我们决定寻找一种更加公平的代币发行方式，来改变这种现状。让更多的人能在项目早期，通过最低的成本参与到项目中来，而不是在极短的时间内进行炒作并让项目走向死亡。',
+      },
+      nftSale: {
+        "info1": '你来做预售定价',
+        "info2": '社区成员销售额提成',
+        "info3": 'NFT孵化将采用盲盒机制',
+        "info4": '幸运机制加入到预售中',
       },
       faqs: {
         "FAQS": 'The FAQs',

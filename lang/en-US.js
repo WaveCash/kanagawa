@@ -116,7 +116,7 @@ export default () => {
         "morefeature_subtitle2": "Time is money. Don’t wait for a transaction to end: open several positions at the same time and continue trading.",
         "morefeature_title3": "Trade smarter",
         "morefeature_subtitle3": "Trade dozens of crypto assets, from BTC and ETH to popular altcoins and stablecoins to innovative new projects.",
-        "benefit_title": "Provide everything to monitor your assets",
+        "benefit_title": "Join our NFT PreSale & Get your bonus",
         "testi_title": "What our members said",
         "testi_subtitle": "They are doing great things with us",
         "faq_title": "Frequently Asked Questions",
@@ -130,6 +130,12 @@ export default () => {
         "origin_story1": 'Nowadays various tokens are rampant. When tokens are created, bad creation teams often pre-issued huge amount tokens in their hands. When these tokens become hot, these teams will sell all their tokens. This is very Unfair, even fraud.',
         "origin_title2": "Change",
         "origin_story2": 'After seeing this undesirable phenomenon, we decided to find a fairer way of issuing tokens to change this status quo. Let more people participate in the project at the lowest cost in the early stage of the project, instead of Hype in a very short period of time and let the project go to death in a short term.',
+      },
+      nftSale: {
+        "info1": 'Name your own price',
+        "info2": 'Community members\' bonus',
+        "info3": 'NFT & Mystery Box',
+        "info4": 'Windfall in the pre-sale',
       },
       faqs: {
         "FAQS": 'The FAQs',
