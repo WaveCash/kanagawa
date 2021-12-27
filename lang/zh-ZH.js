@@ -134,7 +134,7 @@ export default () => {
         "info1": '你来做预售定价',
         "info2": '社区成员销售额提成',
         "info3": 'NFT孵化将采用盲盒机制',
-        "info4": '幸运机制加入到预售中',
+        "info4": '有几率获取退款和奖励',
       },
       faqs: {
         "FAQS": 'The FAQs',

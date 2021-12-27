@@ -135,7 +135,7 @@ export default () => {
         "info1": 'Name your own price',
         "info2": 'Community members\' bonus',
         "info3": 'NFT & Mystery Box',
-        "info4": 'Windfall in the pre-sale',
+        "info4": 'Chance to get Refund & Windfall',
       },
       faqs: {
         "FAQS": 'The FAQs',
