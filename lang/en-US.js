@@ -116,7 +116,7 @@ export default () => {
         "morefeature_subtitle2": "Time is money. Don’t wait for a transaction to end: open several positions at the same time and continue trading.",
         "morefeature_title3": "Trade smarter",
         "morefeature_subtitle3": "Trade dozens of crypto assets, from BTC and ETH to popular altcoins and stablecoins to innovative new projects.",
-        "benefit_title": "Join our NFT PreSale & Get your bonus",
+        "benefit_title": "Join NFT PreSale & Get bonus",
         "testi_title": "What our members said",
         "testi_subtitle": "They are doing great things with us",
         "faq_title": "Frequently Asked Questions",
