@@ -225,7 +225,9 @@ export default () => {
         register: 'Register',
         willStake: '{0} {1} LP token will be staked',
         willUnstake: '{0} {1} LP token will be withdrawn',
-        salvage: 'Salvage'
+        salvage: 'Salvage',
+        nftSale: 'NFT Sale',
+        buy: 'BUY'
       }
     })
   })

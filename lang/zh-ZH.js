@@ -224,7 +224,9 @@ export default () => {
         register: '注册',
         willStake: '{0} {1} LP代币将被质押',
         willUnstake: '{0} {1} LP代币将被赎回',
-        salvage: '海底寻宝'
+        salvage: '海底寻宝',
+        nftSale: 'NFT 销售',
+        buy: '购买'
       }
     })
   })
